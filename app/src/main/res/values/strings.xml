@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">thr10bt</string>
+
+    <string name="button1_caption">&lt;&lt;</string>
+    <string name="button2_caption">&gt;&gt;</string>
+    <string name="button3_caption">Connect</string>
+
+    <string name="label1_caption">Current:</string>
+    <string name="label3_caption">Status:</string>
+
+    <string name="label4_caption_disconnected">disconnected</string>
+    <string name="label4_caption_connected">connected</string>
+    <string name="label4_caption_connecting">connecting</string>
+</resources>
